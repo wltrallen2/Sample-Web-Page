@@ -1,5 +1,5 @@
 # Sample-Web-Page
-Sample page utilizing HTML5, CSS, and PHP
+Very basic landing page utilizing HTML5 and CSS and a confirmation page utilizing PHP, HTML5, and CSS.
 
 This web page is the landing page for a talent show sponsored by Strauss Youth Academy for the Arts, QuesTECH Learning, and the Radio People. The landing page is designed using HTML5 and CSS, and the one hyperlink on the page led to a WordPress form on the main syaa website (syaaonline.com/talentshowapplication). When submitted, the form called the php file (included in this git), which emailed a copy of the form information to two emails, saved the data in a MySQL database, and presented the user with a confirmation form, styled in the same manner as the original landing page.
 
